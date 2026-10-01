@@ -1,0 +1,9 @@
+# Virtual environment
+.venv/
+
+# Environment variables / sensitive information
+.env
+
+# CSV files
+*.csv
+
